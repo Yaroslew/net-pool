@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pcorlys-/.dotnet/store/|arch|/|tfm|",
+      "/Users/pcorlys-/.nuget/packages"
+    ]
+  }
+}
